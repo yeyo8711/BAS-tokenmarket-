@@ -1,2 +1,1 @@
-# BAS-tokenmarket-
-A marketplace for the BAS in game tokens
+This is a decentralized app where users can go to trade tokens that they earn from playing a play to earn game that will launch very soon. They will be able to buy, sell, and trade safely because the marketplace is built with a smart contract. This dApp is made using ReactJS for the front end, Solidity for the backend also the Moralis database along with ethersJs and Hardhat.
